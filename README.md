@@ -28,3 +28,9 @@ pip install -r requirements.txt
 
 ### STEP 05- commit and push the changes to the remote repository
 
+
+### To run notebook
+
+```bash
+pip install ipykernel
+```
